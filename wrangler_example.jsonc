@@ -1,0 +1,12 @@
+{
+	"name": "email-to-paperless",
+	// entry file
+	"main": "src/worker.js",
+	"compatibility_date": "2025-11-09",
+	"vars": {
+		"PAPERLESS_URL": "https://paperless.example.com",
+		"CF_ACCESS_CLIENT_ID": "your-service-token-id",
+		"CF_ACCESS_CLIENT_SECRET": "your-service-token-secret",
+		"AUTHTOKEN": "Token fhjsdhfjdshf8374z38zfhsdohfsdfhsdfhsdf"
+	}
+}
